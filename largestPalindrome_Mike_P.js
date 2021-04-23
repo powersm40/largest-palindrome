@@ -6,7 +6,7 @@
 // Directions:
 //  1. Rename this file, substituting "yourname" with your name
 //  2. Replace "yourname" with your name in the variable below
-exports.name = "yourname";
+exports.name = "Mike P";
 //  3. Add optimizations to the solution below
 //  4. Upload your optimized solution 
 
@@ -40,7 +40,7 @@ exports.getLargestPalindrome = (N) => {
     }
 
     // return result
-    return largestPalidrome;
+    return largestPalindrome;
 }
 
 // input
